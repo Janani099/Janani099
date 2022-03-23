@@ -1,4 +1,4 @@
-[![MasterHead](http://propulsive.in/assets/img/service-icon/web.gif)
+![MasterHead](http://propulsive.in/assets/img/service-icon/web.gif)
 <h1 align="center">Hi 👋, I'm Janani Senthilkumar</h1>
 <h3 align="center">A passionate full stack developer from India</h3>
 <img align="right" alt="Coding" width="400" src="http://netco.co.ke/assets/images/about12.gif">
